@@ -3,3 +3,4 @@ pillow
 google-generativeai
 python-dotenv
 plotly
+langchain
